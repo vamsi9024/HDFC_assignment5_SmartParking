@@ -20,7 +20,7 @@ public class Main {
         Admin adminUser = parkingSystem;
 
         try {
-            // User parks a vehicle
+
             regularUser.parkVehicle("Vamsi", "AP12AB1234", "9876543210", "Four-wheeler");
             regularUser.parkVehicle("Krishna", "DL05CD5678", "9988776655", "Two-wheeler");
             regularUser.parkVehicle("Reddy", "KA01EF9012", "9123456789", "Electric");
